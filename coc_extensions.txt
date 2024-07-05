@@ -1,0 +1,3 @@
+* coc-json 1.8.0 ~/.config/coc/extensions/node_modules/coc-json
++ coc-pyright 1.1.316 ~/.config/coc/extensions/node_modules/coc-pyright
++ coc-jedi 0.35.0 ~/.config/coc/extensions/node_modules/coc-jedi
